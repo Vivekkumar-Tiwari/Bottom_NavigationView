@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/round_home_24"/>
+    <item android:id="@+id/nav_setting"
+        android:title="Setting"
+        android:icon="@drawable/baseline_app_settings_alt_24"/>
+    <item android:id="@+id/nav_tool"
+        android:title="Mobiletool"
+        android:icon="@drawable/tool"/>
+    <item android:id="@+id/nav_chait"
+        android:title="Chair"
+        android:icon="@drawable/baseline_chair_24"/>
+
+
+</menu>
